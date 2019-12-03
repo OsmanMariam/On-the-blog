@@ -25,9 +25,9 @@ class TestComment(unittest.TestCase):
 
     def test_check_instance_variables(self):
         self.assertEquals(self.new_comment.id,12345)
-        self.assertEquals(self.new_comment.post_comment,"this is a nice blog post")
+        self.assertEquals(self.new_comment.post_comment,"great psot!")
         self.assertEquals(self.new_comment.category_id,'funny')
-        self.assertEquals(self.new_comment.blogposts, 'what a nice blog')
+        self.assertEquals(self.new_comment.blogposts, 'great post')
         self.assertEquals(self.new_comment.user,self.user_Mariam)
 
 
