@@ -7,7 +7,11 @@ A web application made using Python's Flask that allows a user to post,view and 
 
 
 
-
+## Technologies Used
+* Python3.6
+* HTML
+* CSS
+* Bootstrap
 
 
 
