@@ -28,6 +28,8 @@ The user can be able to:
 | Display comments on blog posts | **On page load** | Each blog post displays a comment if there are any posted. |
 | Submit blog post | **Click on Post a blog post** | A user can submit blog posts by category |
 
+## Running the Application
+* A live link has been provided
 
 
 
