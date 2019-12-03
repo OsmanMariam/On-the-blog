@@ -31,6 +31,7 @@ The user can be able to:
 ## Running the Application
 * A live link has been provided
 
-
+## Known bugs
+* No known bugs.
 
 
