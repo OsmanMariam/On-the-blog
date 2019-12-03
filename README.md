@@ -13,7 +13,7 @@ A web application made using Python's Flask that allows a user to post,view and 
 * CSS
 * Bootstrap
 
-
+## User Experience
 
 
 
