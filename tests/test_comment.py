@@ -10,9 +10,9 @@ class TestComment(unittest.TestCase):
                                  password = 'jasonmusa8',
                                  email = 'sufimariam8@gmail.com')
         self.new_comment = Comment(id=12345,
-                                     post_comment="this is a nice blog post",
+                                     post_comment="great post!",
                                      category_id='funny',
-                                     blogposts="what a nice blog",
+                                     blogposts="great post,
                                      user_id = self.user_Mariam)
 
     def tearDown(self):
